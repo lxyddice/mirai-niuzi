@@ -16,4 +16,4 @@
 </p>
 <p><h3>如果自己想部署<h3></p>
 <p>大佬多的是为什么不找找其他代替品呢</p>
-<p><a href="https://github.com/lxyddice/mirai-niuzi/bushu.html">我就是想自己试试</p>
+<p><a href="https://github.com/lxyddice/mirai-niuzi/blob/main/bushu.html">我就是想自己试试</p>

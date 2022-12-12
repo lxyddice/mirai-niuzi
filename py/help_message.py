@@ -17,7 +17,7 @@ saya = create(Saya)
 async def helpmessage(app: Ariadne, group: Group, member: Member, message: MessageChain):
 
     if message.display == '/nzhelp':
-        help_information = "\n/nz我的牛子\n/nzget获取牛子\n/nzqd牛子签到\n/nzdj打∠\n/nzph牛子排行\n/nzzt牛子状态\n/nzpk <@user>与某人比划比划\n/nztt <@user>与某人贴贴\n/nzjh启用或禁止与他人交互\n/nzkf牛子开发信息" \
+        help_information = "\n/mynz我的牛子\n/nzget获取牛子\n/nzqd牛子签到\n/nzdj打∠\n/nzph牛子排行\n/nzzt牛子状态\n/nzpk <@user>与某人比划比划\n/nztt <@user>与某人贴贴\n/nzjh启用或禁止与他人交互\n/nzkf牛子开发信息" \
                            ""
         await app.send_message(
             group,

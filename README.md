@@ -14,6 +14,7 @@
 /nzjh启用或禁止与他人交互：锁定部分功能<br>
 /nzkf牛子开发信息<br>愉悦值：减少pk的损失，提升签到与贴贴的奖励，但会增加打胶消耗的长度
 </p>
+<br>优点是可以配合phpmyadmin可视化修改数据？<br>
 <p><h3>如果自己想部署<h3></p>
 <p>大佬多的是为什么不找找其他代替品呢</p>
 <p><a href="https://github.com/lxyddice/mirai-niuzi/blob/main/bushu.md">我就是想自己试试</p>

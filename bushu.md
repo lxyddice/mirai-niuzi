@@ -2,7 +2,7 @@
   <br>
   <h2>数据库有这几列（后续更新肯定会加列数）<h2>
     <img src="https://cdn.staticaly.com/gh/lxyddice/tuchuang-pic@main/lqbz/uTools_1670863363182.4ugxq4316d80.webp"></img><br>
-(https://cdn.staticaly.com/gh/lxyddice/tuchuang-pic@main/lqbz/uTools_1670864517389.602a1hnnitc0.webp)"></img><br>
+(https://cdn.staticaly.com/gh/lxyddice/tuchuang-pic@main/lqbz/uTools_1670864517389.602a1hnnitc0.webp)
   <img src="https://cdn.staticaly.com/gh/lxyddice/tuchuang-pic@main/lqbz/uTools_1670863363182.4ugxq4316d80.webp"></img>
   
     <h2>将main_robot放在机器人根目录下，将py文件放到机器人根目录下/ReplyPack/下<h2>
